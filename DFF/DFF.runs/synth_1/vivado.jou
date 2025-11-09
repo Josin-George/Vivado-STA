@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:24 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Sat Nov  8 11:49:58 2025
+# Process ID         : 12524
+# Current directory  : C:/Users/lenovo/Downloads/Vivado/STA/DFF/DFF.runs/synth_1
+# Command line       : vivado.exe -log dff.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dff.tcl
+# Log file           : C:/Users/lenovo/Downloads/Vivado/STA/DFF/DFF.runs/synth_1/dff.vds
+# Journal file       : C:/Users/lenovo/Downloads/Vivado/STA/DFF/DFF.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-8U727N7O
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 6287 MB
+# Swap memory        : 12348 MB
+# Total Virtual      : 18635 MB
+# Available Virtual  : 4546 MB
+#-----------------------------------------------------------
+source dff.tcl -notrace
